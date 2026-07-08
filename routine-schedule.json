@@ -1,0 +1,854 @@
+{
+ "start": "2026-07-09",
+ "note": "Publiceer de items onder de sleutel = vandaag (ISO datum). Kanaal: IG+FB feed of LinkedIn of Story. image_url = te posten beeld. Alleen op weekdagen.",
+ "days": {
+  "2026-07-09": [
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Advocaten \u00b7 Chaos",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/adv-02.jpg",
+    "caption": "De feiten zitten verspreid over 200 pagina's.\n\nElke zaak begint met handmatig ordenen \u2014 e-mails, verklaringen, vonnissen. Uren die niet declarabel voelen.\n\n\u2192 Gratis scan (15 min): link in bio \ud83d\udc46\n\n#advocaten #advocatuur #legaltech #AI #dossier #efficiency #MKB"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Poll: hoeveel uur kost jou dit?",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-poll.jpg",
+    "caption": "POLL-sticker: \"Hoeveel uur per week kost jou administratie?\"\nOpties: <5u \u00b7 5-15u \u00b7 15u+\n\nSwipe-up / link: hartai.nl/gratis-scan"
+   }
+  ],
+  "2026-07-10": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Advocaten \u00b7 Chaos",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/adv-02.jpg",
+    "caption": "Een advocaat verdient z'n geld met pleiten \u2014 niet met 200 pagina's dossier ordenen.\n\nMet HartAI Dossier gaan de ruwe stukken erin en komt er een feitentijdlijn uit: elke gebeurtenis met bron \u00e9n termijn, klikbaar naar de vindplaats.\n\nBenieuwd wat AI in jouw praktijk aan tijd oplevert?\nhttps://www.hartai.nl/gratis-scan/\n\n#legaltech #advocatuur"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Mini-case: van chaos naar overzicht",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-case.jpg",
+    "caption": "Korte case: \"Van 200 pagina's naar 1 tijdlijn.\"\nToon het voor/na in 2 frames.\n\nSticker: \"Meer weten?\" \u2192 link hartai.nl/gratis-scan"
+   }
+  ],
+  "2026-07-13": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Founder",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/arch-founder.jpg",
+    "caption": "Iedereen laat zien w\u00e1t AI k\u00e1n. Bijna niemand bouwt het m\u00e9t je af.\n\nDaarom lever ik geen rapporten, maar werkende AI die je team ook echt gebruikt. Geen black box, vaste prijs, 90 dagen resultaatgarantie.\n\nBenieuwd waar het bij jou weglekt?\nhttps://www.hartai.nl/gratis-scan/\n\n\u2014 JP"
+   },
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Advocaten \u00b7 Dossier",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/adv-01.jpg",
+    "caption": "Het dossier dat zichzelf ordent.\n\nRuwe stukken erin, een chronologische feitentijdlijn eruit \u2014 elke gebeurtenis met bron \u00e9n termijn.\n\n\u2192 Gratis scan (15 min): link in bio \ud83d\udc46\n\n#advocaten #legaltech #AI #advocatuur #dossieranalyse"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Tip: 1 proces om te automatiseren",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-tip.jpg",
+    "caption": "Tip van de dag: \"Begin met het proces dat je het meeste tijd kost.\"\n\nSticker: \"Welke is dat bij jou?\" (vraag-sticker) \u2192 DM"
+   }
+  ],
+  "2026-07-14": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Advocaten \u00b7 Tijdlijn",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/adv-03.jpg",
+    "caption": "Een advocaat verdient z'n geld met pleiten \u2014 niet met 200 pagina's dossier ordenen.\n\nMet HartAI Dossier gaan de ruwe stukken erin en komt er een feitentijdlijn uit: elke gebeurtenis met bron \u00e9n termijn, klikbaar naar de vindplaats.\n\nBenieuwd wat AI in jouw praktijk aan tijd oplevert?\nhttps://www.hartai.nl/gratis-scan/\n\n#legaltech #advocatuur"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Feed-repost: 'meer in bio'",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-repost.jpg",
+    "caption": "Repost van de feed-post van vandaag met sticker \"Meer in bio \ud83d\udc46\".\n\nDirecte doorklik naar de post + bio-link."
+   }
+  ],
+  "2026-07-15": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Statement",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/arch-statement.jpg",
+    "caption": "Je verliest je tijd niet aan je grote werk. Je verliest 'm aan je saaiste uren.\n\nFacturen, offertes, mailtjes, uitzoekwerk. D\u00e1\u00e1r zetten we AI op in. Niet als speeltje, als fundering.\n\nhttps://www.hartai.nl/gratis-scan/\n\n#AI #MKB"
+   },
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Advocaten \u00b7 Scan",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/adv-04.jpg",
+    "caption": "Zie het op je eigen dossier.\n\nIn 15 minuten laat ik zien wat AI in jouw praktijk aan tijd oplevert. Vertrouwelijk, vrijblijvend.\n\n\u2192 Plan je gratis scan: link in bio \ud83d\udc46\n\n#advocaten #advocatuur #AI #legaltech #gratisscan"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Scan-reminder: gratis 15 min",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-scan.jpg",
+    "caption": "Reminder: \"Gratis AI-scan \u2014 15 min, vrijblijvend.\"\nLaat zien wat AI jouw bedrijf bespaart.\n\nLink-sticker: hartai.nl/gratis-scan"
+   }
+  ],
+  "2026-07-16": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Advocaten \u00b7 Dossier",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/adv-01.jpg",
+    "caption": "Een advocaat verdient z'n geld met pleiten \u2014 niet met 200 pagina's dossier ordenen.\n\nMet HartAI Dossier gaan de ruwe stukken erin en komt er een feitentijdlijn uit: elke gebeurtenis met bron \u00e9n termijn, klikbaar naar de vindplaats.\n\nBenieuwd wat AI in jouw praktijk aan tijd oplevert?\nhttps://www.hartai.nl/gratis-scan/\n\n#legaltech #advocatuur"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Poll: hoeveel uur kost jou dit?",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-poll.jpg",
+    "caption": "POLL-sticker: \"Hoeveel uur per week kost jou administratie?\"\nOpties: <5u \u00b7 5-15u \u00b7 15u+\n\nSwipe-up / link: hartai.nl/gratis-scan"
+   }
+  ],
+  "2026-07-17": [
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Suite",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/suite.jpg",
+    "caption": "Jouw AI-suite. Jij kiest.\n\nZoals Adobe je \u00e9\u00e9n pakket tools geeft, geeft HartAI je \u00e9\u00e9n suite AI-oplossingen \u2014 kies wat je inzet.\n\n\u2192 Gratis scan: link in bio \ud83d\udc46\n\n#AI #MKB #automatisering #ondernemen #AIsuite"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Mini-case: van chaos naar overzicht",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-case.jpg",
+    "caption": "Korte case: \"Van 200 pagina's naar 1 tijdlijn.\"\nToon het voor/na in 2 frames.\n\nSticker: \"Meer weten?\" \u2192 link hartai.nl/gratis-scan"
+   }
+  ],
+  "2026-07-20": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Portal",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/portal.jpg",
+    "caption": "E\u00e9n plek waar al je automatiseringen samenkomen: de HartAI Portal.\n\nJe logt in, zet aan wat je nodig hebt, en ziet direct wat het oplevert \u2014 minder uren, lagere kosten.\n\nBenieuwd hoeveel jouw portal bespaart?\nhttps://www.hartai.nl/gratis-scan/\n\n#AI #automatisering"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Tip: 1 proces om te automatiseren",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-tip.jpg",
+    "caption": "Tip van de dag: \"Begin met het proces dat je het meeste tijd kost.\"\n\nSticker: \"Welke is dat bij jou?\" (vraag-sticker) \u2192 DM"
+   }
+  ],
+  "2026-07-21": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Stat-hero 80\u219235",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/arch-stathero.jpg",
+    "caption": "Van 80 naar 35 uur per week. Niet door harder te werken \u2014 door je saaiste uren aan AI te geven.\n\nGeen belofte uit een pitch. Dat gebeurt als je AI bij het juiste proces inzet.\n\nHoeveel uur zou het jou schelen?\nhttps://www.hartai.nl/gratis-scan/\n\n#AI #productiviteit"
+   },
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Portal",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/portal.jpg",
+    "caption": "Jouw portal. Alles op \u00e9\u00e9n plek.\n\nToegang tot al je automatiseringen \u2014 minder uren, lagere kosten. Jij houdt de regie.\n\n\u2192 Gratis scan: link in bio \ud83d\udc46\n\n#AI #MKB #automatisering #ondernemen #tijdwinst"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Feed-repost: 'meer in bio'",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-repost.jpg",
+    "caption": "Repost van de feed-post van vandaag met sticker \"Meer in bio \ud83d\udc46\".\n\nDirecte doorklik naar de post + bio-link."
+   }
+  ],
+  "2026-07-22": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Founder",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/arch-founder.jpg",
+    "caption": "Iedereen laat zien w\u00e1t AI k\u00e1n. Bijna niemand bouwt het m\u00e9t je af.\n\nDaarom lever ik geen rapporten, maar werkende AI die je team ook echt gebruikt. Geen black box, vaste prijs, 90 dagen resultaatgarantie.\n\nBenieuwd waar het bij jou weglekt?\nhttps://www.hartai.nl/gratis-scan/\n\n\u2014 JP"
+   },
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Statement",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/arch-statement.jpg",
+    "caption": "De meeste tijd verlies je aan je saaiste uren.\n\nFacturen, offertes, mailtjes, uitzoekwerk. D\u00e1\u00e1r zetten we AI op in \u2014 niet als speeltje, als fundering.\n\n\u2192 Gratis scan: link in bio \ud83d\udc46\n\n#AI #MKB #automatisering #ondernemen"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Scan-reminder: gratis 15 min",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-scan.jpg",
+    "caption": "Reminder: \"Gratis AI-scan \u2014 15 min, vrijblijvend.\"\nLaat zien wat AI jouw bedrijf bespaart.\n\nLink-sticker: hartai.nl/gratis-scan"
+   }
+  ],
+  "2026-07-23": [
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Makelaars \u00b7 Pijn",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/mak-01.jpg",
+    "caption": "De warme lead die afkoelt.\n\n's Avonds een vraag over je woning \u2014 's ochtends is de koper al bij de buurman.\n\n\u2192 Gratis scan (15 min): link in bio \ud83d\udc46\n\n#makelaar #makelaardij #vastgoed #AI #leadgeneratie #MKB"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Poll: hoeveel uur kost jou dit?",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-poll.jpg",
+    "caption": "POLL-sticker: \"Hoeveel uur per week kost jou administratie?\"\nOpties: <5u \u00b7 5-15u \u00b7 15u+\n\nSwipe-up / link: hartai.nl/gratis-scan"
+   }
+  ],
+  "2026-07-24": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Makelaars \u00b7 Pijn",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/mak-01.jpg",
+    "caption": "De warme lead die 's avonds een vraag stelt, is 's ochtends de klant van de buurman.\n\nConcierge beantwoordt vragen over je aanbod, kwalificeert de koper en plant de bezichtiging \u2014 24/7. Jij krijgt alleen de warme leads.\n\nZie het op je eigen aanbod:\nhttps://www.hartai.nl/gratis-scan/\n\n#makelaardij #vastgoed"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Mini-case: van chaos naar overzicht",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-case.jpg",
+    "caption": "Korte case: \"Van 200 pagina's naar 1 tijdlijn.\"\nToon het voor/na in 2 frames.\n\nSticker: \"Meer weten?\" \u2192 link hartai.nl/gratis-scan"
+   }
+  ],
+  "2026-07-27": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Makelaars \u00b7 Bewijs",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/mak-03.jpg",
+    "caption": "De warme lead die 's avonds een vraag stelt, is 's ochtends de klant van de buurman.\n\nConcierge beantwoordt vragen over je aanbod, kwalificeert de koper en plant de bezichtiging \u2014 24/7. Jij krijgt alleen de warme leads.\n\nZie het op je eigen aanbod:\nhttps://www.hartai.nl/gratis-scan/\n\n#makelaardij #vastgoed"
+   },
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Makelaars \u00b7 Oplossing",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/mak-02.jpg",
+    "caption": "Elke lead meteen te woord.\n\nConcierge beantwoordt vragen over je aanbod, kwalificeert de koper \u00e9n plant de bezichtiging \u2014 dag en nacht.\n\n\u2192 Gratis scan: link in bio \ud83d\udc46\n\n#makelaar #vastgoed #AI #concierge #leadgeneratie"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Tip: 1 proces om te automatiseren",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-tip.jpg",
+    "caption": "Tip van de dag: \"Begin met het proces dat je het meeste tijd kost.\"\n\nSticker: \"Welke is dat bij jou?\" (vraag-sticker) \u2192 DM"
+   }
+  ],
+  "2026-07-28": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Founder",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/arch-founder.jpg",
+    "caption": "Iedereen laat zien w\u00e1t AI k\u00e1n. Bijna niemand bouwt het m\u00e9t je af.\n\nDaarom lever ik geen rapporten, maar werkende AI die je team ook echt gebruikt. Geen black box, vaste prijs, 90 dagen resultaatgarantie.\n\nBenieuwd waar het bij jou weglekt?\nhttps://www.hartai.nl/gratis-scan/\n\n\u2014 JP"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Feed-repost: 'meer in bio'",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-repost.jpg",
+    "caption": "Repost van de feed-post van vandaag met sticker \"Meer in bio \ud83d\udc46\".\n\nDirecte doorklik naar de post + bio-link."
+   }
+  ],
+  "2026-07-29": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Makelaars \u00b7 Scan",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/mak-05.jpg",
+    "caption": "De warme lead die 's avonds een vraag stelt, is 's ochtends de klant van de buurman.\n\nConcierge beantwoordt vragen over je aanbod, kwalificeert de koper en plant de bezichtiging \u2014 24/7. Jij krijgt alleen de warme leads.\n\nZie het op je eigen aanbod:\nhttps://www.hartai.nl/gratis-scan/\n\n#makelaardij #vastgoed"
+   },
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Makelaars \u00b7 Resultaat",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/mak-04.jpg",
+    "caption": "Geen warme lead meer kwijt.\n\nReageer in seconden in plaats van uren. Meer bezichtigingen, meer verkopen \u2014 zonder extra werk.\n\n\u2192 Gratis scan: link in bio \ud83d\udc46\n\n#makelaar #vastgoed #AI #sales #leadgeneratie"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Scan-reminder: gratis 15 min",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-scan.jpg",
+    "caption": "Reminder: \"Gratis AI-scan \u2014 15 min, vrijblijvend.\"\nLaat zien wat AI jouw bedrijf bespaart.\n\nLink-sticker: hartai.nl/gratis-scan"
+   }
+  ],
+  "2026-07-30": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Makelaars \u00b7 Oplossing",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/mak-02.jpg",
+    "caption": "De warme lead die 's avonds een vraag stelt, is 's ochtends de klant van de buurman.\n\nConcierge beantwoordt vragen over je aanbod, kwalificeert de koper en plant de bezichtiging \u2014 24/7. Jij krijgt alleen de warme leads.\n\nZie het op je eigen aanbod:\nhttps://www.hartai.nl/gratis-scan/\n\n#makelaardij #vastgoed"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Poll: hoeveel uur kost jou dit?",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-poll.jpg",
+    "caption": "POLL-sticker: \"Hoeveel uur per week kost jou administratie?\"\nOpties: <5u \u00b7 5-15u \u00b7 15u+\n\nSwipe-up / link: hartai.nl/gratis-scan"
+   }
+  ],
+  "2026-07-31": [
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Suite",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/suite.jpg",
+    "caption": "Jouw AI-suite. Jij kiest.\n\nZoals Adobe je \u00e9\u00e9n pakket tools geeft, geeft HartAI je \u00e9\u00e9n suite AI-oplossingen \u2014 kies wat je inzet.\n\n\u2192 Gratis scan: link in bio \ud83d\udc46\n\n#AI #MKB #automatisering #ondernemen #AIsuite"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Mini-case: van chaos naar overzicht",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-case.jpg",
+    "caption": "Korte case: \"Van 200 pagina's naar 1 tijdlijn.\"\nToon het voor/na in 2 frames.\n\nSticker: \"Meer weten?\" \u2192 link hartai.nl/gratis-scan"
+   }
+  ],
+  "2026-08-03": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Statement",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/arch-statement.jpg",
+    "caption": "Je verliest je tijd niet aan je grote werk. Je verliest 'm aan je saaiste uren.\n\nFacturen, offertes, mailtjes, uitzoekwerk. D\u00e1\u00e1r zetten we AI op in. Niet als speeltje, als fundering.\n\nhttps://www.hartai.nl/gratis-scan/\n\n#AI #MKB"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Tip: 1 proces om te automatiseren",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-tip.jpg",
+    "caption": "Tip van de dag: \"Begin met het proces dat je het meeste tijd kost.\"\n\nSticker: \"Welke is dat bij jou?\" (vraag-sticker) \u2192 DM"
+   }
+  ],
+  "2026-08-04": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Portal",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/portal.jpg",
+    "caption": "E\u00e9n plek waar al je automatiseringen samenkomen: de HartAI Portal.\n\nJe logt in, zet aan wat je nodig hebt, en ziet direct wat het oplevert \u2014 minder uren, lagere kosten.\n\nBenieuwd hoeveel jouw portal bespaart?\nhttps://www.hartai.nl/gratis-scan/\n\n#AI #automatisering"
+   },
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Stat-hero 80\u219235",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/arch-stathero.jpg",
+    "caption": "Van 80 naar 35 uur per week.\n\nNiet door harder te werken \u2014 door je saaiste uren aan AI te geven.\n\n\u2192 Hoeveel uur levert het jou op? Gratis scan: link in bio \ud83d\udc46\n\n#AI #MKB #productiviteit #ondernemen #tijdwinst"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Feed-repost: 'meer in bio'",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-repost.jpg",
+    "caption": "Repost van de feed-post van vandaag met sticker \"Meer in bio \ud83d\udc46\".\n\nDirecte doorklik naar de post + bio-link."
+   }
+  ],
+  "2026-08-05": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Sectoren",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/arch-statement.jpg",
+    "caption": "Je verliest je tijd niet aan je grote werk. Je verliest 'm aan je saaiste uren.\n\nFacturen, offertes, mailtjes, uitzoekwerk. D\u00e1\u00e1r zetten we AI op in. Niet als speeltje, als fundering.\n\nhttps://www.hartai.nl/gratis-scan/\n\n#AI #MKB"
+   },
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Founder",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/arch-founder.jpg",
+    "caption": "Iedereen laat zien w\u00e1t AI kan. Ik bouw het m\u00e9t je af.\n\nGeen rapporten \u2014 werkende AI die je team ook echt gebruikt. Vaste prijs, 90 dagen garantie.\n\n\u2192 Gratis scan: link in bio \ud83d\udc46\n\n#AI #MKB #ondernemer \u2014 JP Hart"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Scan-reminder: gratis 15 min",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-scan.jpg",
+    "caption": "Reminder: \"Gratis AI-scan \u2014 15 min, vrijblijvend.\"\nLaat zien wat AI jouw bedrijf bespaart.\n\nLink-sticker: hartai.nl/gratis-scan"
+   }
+  ],
+  "2026-08-06": [
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Klinieken \u00b7 Pijn",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/klin-01.jpg",
+    "caption": "Elke afspraak via de balie.\n\nBellen, appjes buiten openingstijd, no-shows \u2014 je balie loopt vol.\n\n\u2192 Gratis scan (15 min): link in bio \ud83d\udc46\n\n#kliniek #zorg #praktijk #AI #automatisering #MKB"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Poll: hoeveel uur kost jou dit?",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-poll.jpg",
+    "caption": "POLL-sticker: \"Hoeveel uur per week kost jou administratie?\"\nOpties: <5u \u00b7 5-15u \u00b7 15u+\n\nSwipe-up / link: hartai.nl/gratis-scan"
+   }
+  ],
+  "2026-08-07": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Klinieken \u00b7 Pijn",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/klin-01.jpg",
+    "caption": "Je balie is geen callcenter. Toch voelt het vaak zo.\n\nConcierge beantwoordt vragen, plant afspraken en stuurt herinneringen \u2014 24/7, zonder je balie te belasten. Minder no-shows, vollere agenda.\n\nVertrouwelijke scan van 15 min:\nhttps://www.hartai.nl/gratis-scan/\n\n#zorg #kliniek"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Mini-case: van chaos naar overzicht",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-case.jpg",
+    "caption": "Korte case: \"Van 200 pagina's naar 1 tijdlijn.\"\nToon het voor/na in 2 frames.\n\nSticker: \"Meer weten?\" \u2192 link hartai.nl/gratis-scan"
+   }
+  ],
+  "2026-08-10": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Klinieken \u00b7 Bewijs",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/klin-03.jpg",
+    "caption": "Je balie is geen callcenter. Toch voelt het vaak zo.\n\nConcierge beantwoordt vragen, plant afspraken en stuurt herinneringen \u2014 24/7, zonder je balie te belasten. Minder no-shows, vollere agenda.\n\nVertrouwelijke scan van 15 min:\nhttps://www.hartai.nl/gratis-scan/\n\n#zorg #kliniek"
+   },
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Klinieken \u00b7 Oplossing",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/klin-02.jpg",
+    "caption": "Afspraken vanzelf gepland.\n\nConcierge beantwoordt vragen, plant afspraken \u00e9n stuurt herinneringen \u2014 dag en nacht.\n\n\u2192 Gratis scan: link in bio \ud83d\udc46\n\n#kliniek #zorg #AI #concierge #praktijk"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Tip: 1 proces om te automatiseren",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-tip.jpg",
+    "caption": "Tip van de dag: \"Begin met het proces dat je het meeste tijd kost.\"\n\nSticker: \"Welke is dat bij jou?\" (vraag-sticker) \u2192 DM"
+   }
+  ],
+  "2026-08-11": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Stat-hero",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/arch-stathero.jpg",
+    "caption": "Van 80 naar 35 uur per week. Niet door harder te werken \u2014 door je saaiste uren aan AI te geven.\n\nGeen belofte uit een pitch. Dat gebeurt als je AI bij het juiste proces inzet.\n\nHoeveel uur zou het jou schelen?\nhttps://www.hartai.nl/gratis-scan/\n\n#AI #productiviteit"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Feed-repost: 'meer in bio'",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-repost.jpg",
+    "caption": "Repost van de feed-post van vandaag met sticker \"Meer in bio \ud83d\udc46\".\n\nDirecte doorklik naar de post + bio-link."
+   }
+  ],
+  "2026-08-12": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Klinieken \u00b7 Scan",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/klin-05.jpg",
+    "caption": "Je balie is geen callcenter. Toch voelt het vaak zo.\n\nConcierge beantwoordt vragen, plant afspraken en stuurt herinneringen \u2014 24/7, zonder je balie te belasten. Minder no-shows, vollere agenda.\n\nVertrouwelijke scan van 15 min:\nhttps://www.hartai.nl/gratis-scan/\n\n#zorg #kliniek"
+   },
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Klinieken \u00b7 Resultaat",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/klin-04.jpg",
+    "caption": "Minder no-shows, vollere agenda.\n\nAutomatische herinneringen en 24/7 bereikbaarheid. Je balie ontlast \u2014 zonder een gemiste aanvraag.\n\n\u2192 Gratis scan: link in bio \ud83d\udc46\n\n#kliniek #zorg #AI #praktijk #efficiency"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Scan-reminder: gratis 15 min",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-scan.jpg",
+    "caption": "Reminder: \"Gratis AI-scan \u2014 15 min, vrijblijvend.\"\nLaat zien wat AI jouw bedrijf bespaart.\n\nLink-sticker: hartai.nl/gratis-scan"
+   }
+  ],
+  "2026-08-13": [
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Accountants \u00b7 Pijn",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/acc-01.jpg",
+    "caption": "Elke maand weer overtypen.\n\nBonnen, facturen, bankafschriften \u2014 met de hand in de boekhouding. Uren repetitief werk.\n\n\u2192 Gratis scan (15 min): link in bio \ud83d\udc46\n\n#accountant #boekhouding #administratie #AI #automatisering #MKB"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Poll: hoeveel uur kost jou dit?",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-poll.jpg",
+    "caption": "POLL-sticker: \"Hoeveel uur per week kost jou administratie?\"\nOpties: <5u \u00b7 5-15u \u00b7 15u+\n\nSwipe-up / link: hartai.nl/gratis-scan"
+   }
+  ],
+  "2026-08-14": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Accountants \u00b7 Pijn",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/acc-01.jpg",
+    "caption": "Je klanten betalen je voor advies. Niet voor het overtypen van bonnetjes.\n\nFactuur-AI haalt bonnen en facturen uit de inbox en zet ze klaar in de boekhouding \u2014 zonder overtypen, zonder fouten. Minder invoeren, meer adviseren.\n\nZie het op je eigen boekhouding:\nhttps://www.hartai.nl/gratis-scan/\n\n#accountancy #boekhouding"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Mini-case: van chaos naar overzicht",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-case.jpg",
+    "caption": "Korte case: \"Van 200 pagina's naar 1 tijdlijn.\"\nToon het voor/na in 2 frames.\n\nSticker: \"Meer weten?\" \u2192 link hartai.nl/gratis-scan"
+   }
+  ],
+  "2026-08-17": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Accountants \u00b7 Bewijs",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/acc-03.jpg",
+    "caption": "Je klanten betalen je voor advies. Niet voor het overtypen van bonnetjes.\n\nFactuur-AI haalt bonnen en facturen uit de inbox en zet ze klaar in de boekhouding \u2014 zonder overtypen, zonder fouten. Minder invoeren, meer adviseren.\n\nZie het op je eigen boekhouding:\nhttps://www.hartai.nl/gratis-scan/\n\n#accountancy #boekhouding"
+   },
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Accountants \u00b7 Oplossing",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/acc-02.jpg",
+    "caption": "Facturen vanzelf geboekt.\n\nFactuur-AI haalt bonnen en facturen uit de inbox en zet ze klaar in de boekhouding \u2014 zonder overtypen.\n\n\u2192 Gratis scan: link in bio \ud83d\udc46\n\n#accountant #boekhouding #AI #factuurverwerking #administratie"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Tip: 1 proces om te automatiseren",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-tip.jpg",
+    "caption": "Tip van de dag: \"Begin met het proces dat je het meeste tijd kost.\"\n\nSticker: \"Welke is dat bij jou?\" (vraag-sticker) \u2192 DM"
+   }
+  ],
+  "2026-08-18": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Founder",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/arch-founder.jpg",
+    "caption": "Iedereen laat zien w\u00e1t AI k\u00e1n. Bijna niemand bouwt het m\u00e9t je af.\n\nDaarom lever ik geen rapporten, maar werkende AI die je team ook echt gebruikt. Geen black box, vaste prijs, 90 dagen resultaatgarantie.\n\nBenieuwd waar het bij jou weglekt?\nhttps://www.hartai.nl/gratis-scan/\n\n\u2014 JP"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Feed-repost: 'meer in bio'",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-repost.jpg",
+    "caption": "Repost van de feed-post van vandaag met sticker \"Meer in bio \ud83d\udc46\".\n\nDirecte doorklik naar de post + bio-link."
+   }
+  ],
+  "2026-08-19": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Accountants \u00b7 Scan",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/acc-05.jpg",
+    "caption": "Je klanten betalen je voor advies. Niet voor het overtypen van bonnetjes.\n\nFactuur-AI haalt bonnen en facturen uit de inbox en zet ze klaar in de boekhouding \u2014 zonder overtypen, zonder fouten. Minder invoeren, meer adviseren.\n\nZie het op je eigen boekhouding:\nhttps://www.hartai.nl/gratis-scan/\n\n#accountancy #boekhouding"
+   },
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Accountants \u00b7 Resultaat",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/acc-04.jpg",
+    "caption": "Uren terug, nul overtypfouten.\n\nRepetitief invoerwerk verdwijnt. Meer tijd voor advies \u2014 de marge waar het \u00e9cht om draait.\n\n\u2192 Gratis scan: link in bio \ud83d\udc46\n\n#accountant #boekhouding #AI #efficiency #advies"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Scan-reminder: gratis 15 min",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-scan.jpg",
+    "caption": "Reminder: \"Gratis AI-scan \u2014 15 min, vrijblijvend.\"\nLaat zien wat AI jouw bedrijf bespaart.\n\nLink-sticker: hartai.nl/gratis-scan"
+   }
+  ],
+  "2026-08-20": [
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Notarissen \u00b7 Pijn",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/not-01.jpg",
+    "caption": "Elke akte, handwerk.\n\nDossiers napluizen, stukken controleren, standaardteksten samenstellen \u2014 steeds hetzelfde uitzoekwerk.\n\n\u2192 Gratis scan (15 min): link in bio \ud83d\udc46\n\n#notaris #notariaat #legaltech #AI #automatisering #MKB"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Poll: hoeveel uur kost jou dit?",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-poll.jpg",
+    "caption": "POLL-sticker: \"Hoeveel uur per week kost jou administratie?\"\nOpties: <5u \u00b7 5-15u \u00b7 15u+\n\nSwipe-up / link: hartai.nl/gratis-scan"
+   }
+  ],
+  "2026-08-21": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Notarissen \u00b7 Pijn",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/not-01.jpg",
+    "caption": "Elke akte begint met hetzelfde uitzoekwerk. Maar dat is niet het werk waar je je handtekening onder zet.\n\nAI leest het dossier, haalt de kerngegevens eruit en zet het concept klaar. Jij controleert en tekent.\n\nVertrouwelijke scan van 15 min:\nhttps://www.hartai.nl/gratis-scan/\n\n#notariaat"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Mini-case: van chaos naar overzicht",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-case.jpg",
+    "caption": "Korte case: \"Van 200 pagina's naar 1 tijdlijn.\"\nToon het voor/na in 2 frames.\n\nSticker: \"Meer weten?\" \u2192 link hartai.nl/gratis-scan"
+   }
+  ],
+  "2026-08-24": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Notarissen \u00b7 Bewijs",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/not-03.jpg",
+    "caption": "Elke akte begint met hetzelfde uitzoekwerk. Maar dat is niet het werk waar je je handtekening onder zet.\n\nAI leest het dossier, haalt de kerngegevens eruit en zet het concept klaar. Jij controleert en tekent.\n\nVertrouwelijke scan van 15 min:\nhttps://www.hartai.nl/gratis-scan/\n\n#notariaat"
+   },
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Notarissen \u00b7 Oplossing",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/not-02.jpg",
+    "caption": "Het concept, voorbereid.\n\nAI leest het dossier, haalt de kerngegevens eruit en zet het concept klaar \u2014 jij controleert en tekent.\n\n\u2192 Gratis scan: link in bio \ud83d\udc46\n\n#notaris #notariaat #legaltech #AI #dossier"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Tip: 1 proces om te automatiseren",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-tip.jpg",
+    "caption": "Tip van de dag: \"Begin met het proces dat je het meeste tijd kost.\"\n\nSticker: \"Welke is dat bij jou?\" (vraag-sticker) \u2192 DM"
+   }
+  ],
+  "2026-08-25": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Stat-hero",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/arch-stathero.jpg",
+    "caption": "Van 80 naar 35 uur per week. Niet door harder te werken \u2014 door je saaiste uren aan AI te geven.\n\nGeen belofte uit een pitch. Dat gebeurt als je AI bij het juiste proces inzet.\n\nHoeveel uur zou het jou schelen?\nhttps://www.hartai.nl/gratis-scan/\n\n#AI #productiviteit"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Feed-repost: 'meer in bio'",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-repost.jpg",
+    "caption": "Repost van de feed-post van vandaag met sticker \"Meer in bio \ud83d\udc46\".\n\nDirecte doorklik naar de post + bio-link."
+   }
+  ],
+  "2026-08-26": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Notarissen \u00b7 Scan",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/not-05.jpg",
+    "caption": "Elke akte begint met hetzelfde uitzoekwerk. Maar dat is niet het werk waar je je handtekening onder zet.\n\nAI leest het dossier, haalt de kerngegevens eruit en zet het concept klaar. Jij controleert en tekent.\n\nVertrouwelijke scan van 15 min:\nhttps://www.hartai.nl/gratis-scan/\n\n#notariaat"
+   },
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Notarissen \u00b7 Resultaat",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/not-04.jpg",
+    "caption": "Sneller klaar, nul misslagen.\n\nMinder uitzoekwerk per akte. Meer tijd voor het advies en de ondertekening die er echt toe doen.\n\n\u2192 Gratis scan: link in bio \ud83d\udc46\n\n#notaris #notariaat #AI #efficiency #legaltech"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Scan-reminder: gratis 15 min",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-scan.jpg",
+    "caption": "Reminder: \"Gratis AI-scan \u2014 15 min, vrijblijvend.\"\nLaat zien wat AI jouw bedrijf bespaart.\n\nLink-sticker: hartai.nl/gratis-scan"
+   }
+  ],
+  "2026-08-27": [
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Suite",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/suite.jpg",
+    "caption": "Jouw AI-suite. Jij kiest.\n\nZoals Adobe je \u00e9\u00e9n pakket tools geeft, geeft HartAI je \u00e9\u00e9n suite AI-oplossingen \u2014 kies wat je inzet.\n\n\u2192 Gratis scan: link in bio \ud83d\udc46\n\n#AI #MKB #automatisering #ondernemen #AIsuite"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Poll: hoeveel uur kost jou dit?",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-poll.jpg",
+    "caption": "POLL-sticker: \"Hoeveel uur per week kost jou administratie?\"\nOpties: <5u \u00b7 5-15u \u00b7 15u+\n\nSwipe-up / link: hartai.nl/gratis-scan"
+   }
+  ],
+  "2026-08-28": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Statement",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/arch-statement.jpg",
+    "caption": "Je verliest je tijd niet aan je grote werk. Je verliest 'm aan je saaiste uren.\n\nFacturen, offertes, mailtjes, uitzoekwerk. D\u00e1\u00e1r zetten we AI op in. Niet als speeltje, als fundering.\n\nhttps://www.hartai.nl/gratis-scan/\n\n#AI #MKB"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Mini-case: van chaos naar overzicht",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-case.jpg",
+    "caption": "Korte case: \"Van 200 pagina's naar 1 tijdlijn.\"\nToon het voor/na in 2 frames.\n\nSticker: \"Meer weten?\" \u2192 link hartai.nl/gratis-scan"
+   }
+  ],
+  "2026-08-31": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Founder",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/arch-founder.jpg",
+    "caption": "Iedereen laat zien w\u00e1t AI k\u00e1n. Bijna niemand bouwt het m\u00e9t je af.\n\nDaarom lever ik geen rapporten, maar werkende AI die je team ook echt gebruikt. Geen black box, vaste prijs, 90 dagen resultaatgarantie.\n\nBenieuwd waar het bij jou weglekt?\nhttps://www.hartai.nl/gratis-scan/\n\n\u2014 JP"
+   },
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Portal",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/portal.jpg",
+    "caption": "Jouw portal. Alles op \u00e9\u00e9n plek.\n\nToegang tot al je automatiseringen \u2014 minder uren, lagere kosten. Jij houdt de regie.\n\n\u2192 Gratis scan: link in bio \ud83d\udc46\n\n#AI #MKB #automatisering #ondernemen #tijdwinst"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Tip: 1 proces om te automatiseren",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-tip.jpg",
+    "caption": "Tip van de dag: \"Begin met het proces dat je het meeste tijd kost.\"\n\nSticker: \"Welke is dat bij jou?\" (vraag-sticker) \u2192 DM"
+   }
+  ],
+  "2026-09-01": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Best-of resultaten",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/arch-stathero.jpg",
+    "caption": "Van 80 naar 35 uur per week. Niet door harder te werken \u2014 door je saaiste uren aan AI te geven.\n\nGeen belofte uit een pitch. Dat gebeurt als je AI bij het juiste proces inzet.\n\nHoeveel uur zou het jou schelen?\nhttps://www.hartai.nl/gratis-scan/\n\n#AI #productiviteit"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Feed-repost: 'meer in bio'",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-repost.jpg",
+    "caption": "Repost van de feed-post van vandaag met sticker \"Meer in bio \ud83d\udc46\".\n\nDirecte doorklik naar de post + bio-link."
+   }
+  ],
+  "2026-09-02": [
+   {
+    "time": "08:30",
+    "channel": "LinkedIn",
+    "type": "feed",
+    "title": "Scan-push",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/adv-04.jpg",
+    "caption": "Een advocaat verdient z'n geld met pleiten \u2014 niet met 200 pagina's dossier ordenen.\n\nMet HartAI Dossier gaan de ruwe stukken erin en komt er een feitentijdlijn uit: elke gebeurtenis met bron \u00e9n termijn, klikbaar naar de vindplaats.\n\nBenieuwd wat AI in jouw praktijk aan tijd oplevert?\nhttps://www.hartai.nl/gratis-scan/\n\n#legaltech #advocatuur"
+   },
+   {
+    "time": "12:30",
+    "channel": "IG+FB",
+    "type": "feed",
+    "title": "Welke branche ben jij?",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/arch-statement.jpg",
+    "caption": "De meeste tijd verlies je aan je saaiste uren.\n\nFacturen, offertes, mailtjes, uitzoekwerk. D\u00e1\u00e1r zetten we AI op in \u2014 niet als speeltje, als fundering.\n\n\u2192 Gratis scan: link in bio \ud83d\udc46\n\n#AI #MKB #automatisering #ondernemen"
+   },
+   {
+    "time": "17:00",
+    "channel": "Story",
+    "type": "story",
+    "title": "Scan-reminder: gratis 15 min",
+    "image_url": "https://raw.githubusercontent.com/bithart9/hartai-assets/main/campaign/story-scan.jpg",
+    "caption": "Reminder: \"Gratis AI-scan \u2014 15 min, vrijblijvend.\"\nLaat zien wat AI jouw bedrijf bespaart.\n\nLink-sticker: hartai.nl/gratis-scan"
+   }
+  ]
+ }
+}
